@@ -1,89 +1,146 @@
-# 👋 Hi, I'm Tofik Yussuf
+# 👋 Hi, I'm **Tofik Yussuf**
 
 💻 Full-Stack Web Developer  
 🌍 Based in Ethiopia  
-🚀 Passionate about building modern, scalable web applications
+🚀 Building scalable, production-ready web applications  
 
 ---
 
 ## 🎯 About Me
 
-I’m a self-taught developer focused on building modern, high-performance web applications.  
-My work combines clean architecture, scalable backend systems, and intuitive user interfaces.
+I’m a self-taught full-stack developer focused on designing and building high-performance web applications using modern JavaScript ecosystems.
 
-I enjoy turning complex ideas into reliable products using modern JavaScript frameworks and backend technologies.  
-My development philosophy centers around **performance, maintainability, and great user experience**.
+I specialize in:
 
-When I’m not coding, I’m constantly learning new technologies and improving my engineering skills.
+- Clean architecture  
+- Scalable backend systems  
+- Performance optimization  
+- Modern frontend engineering  
+
+I turn complex business requirements into reliable digital solutions with maintainable code and strong engineering principles.
+
+I continuously improve by building real-world applications and refining my system design knowledge.
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://tofik-yussuf-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://tofik-yussuf-portfolio.vercel.app/)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:tofikyussuf@email.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tofikyussuf-ops&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=tofikyussuf-ops&color=brightgreen)
 
 ---
 
-💡 Tech Stack Highlights:
-Languages:
-JavaScript (ES6+), TypeScript, Python
+## 🛠 Technical Stack
 
-Frontend:
-React, Next.js, Tailwind CSS, Radix UI, Shadcn, Headless UI, React Hook Forms
-
-Backend:
-Node.js, Express.js, Prisma, Drizzle ORM, Strapi, RESTful APIs, tRPC, Apollo, GraphQL
-
-Databases:
-PostgreSQL, MSSQL, MySQL, MongoDB, Redis, Upstash
-
-Tools & Integrations:
-Stripe, Google Maps API, ChartJS, SendGrid, NodeMailer, MUX
-
-CI/CD & DevOps:
-Docker, Monorepo Architecture (building multiple apps in one repository), TurboRepo, Linux, Git
-
-Cloud & Hosting:
-Firebase, Supabase
+### 💻 Languages
+- JavaScript (ES6+)
+- TypeScript
+- Python
 
 ---
 
-## ⚡ Development Principles
+### 🎨 Frontend
+- React
+- Next.js
+- Tailwind CSS
+- Radix UI
+- Shadcn UI
+- Headless UI
+- React Hook Form
+
+---
+
+### ⚙ Backend
+- Node.js
+- Express.js
+- Prisma
+- Drizzle ORM
+- Strapi
+- REST APIs
+- tRPC
+- GraphQL
+- Apollo
+
+---
+
+### 🗄 Databases
+- PostgreSQL
+- MSSQL
+- MySQL
+- MongoDB
+- Redis
+- Upstash
+
+---
+
+### 🚀 DevOps & Infrastructure
+- Docker
+- TurboRepo
+- Monorepo Architecture
+- Linux
+- Git
+
+---
+
+### ☁ Cloud & Integrations
+- Firebase
+- Supabase
+- Stripe
+- Google Maps API
+- SendGrid
+- NodeMailer
+- MUX
+- OpenAI
+
+---
+
+## ⚡ Engineering Focus
 
 ### Performance First
-Optimizing applications using caching strategies, efficient database queries, and modern build tools.
+I optimize applications with caching strategies, efficient database queries, and optimized build systems to deliver fast user experiences.
 
 ### Scalable Architecture
-Building maintainable systems using modular design patterns and clean backend architecture.
+I build modular systems using clean code principles and structured backend architecture to support long-term growth.
 
 ### Developer Experience
-Using modern tools like TypeScript, schema validation, and efficient workflows to create reliable systems.
+I leverage TypeScript, schema validation (Zod), and modern tooling to create maintainable and reliable systems.
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Professional Experience Areas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tofikyussuf-ops&show_icons=true&theme=dark)
+- ✅ Payment Integration (Stripe)  
+- ✅ AI Integrations & Automation  
+- ✅ Data Visualization (ChartJS)  
+- ✅ Schema Validation with Zod  
+- ✅ Advanced State Management  
+- ✅ Secure API Design  
+- ✅ Monorepo-Based Application Scaling  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tofikyussuf-ops&theme=dark)
+---
+
+## 📊 :contentReference[oaicite:0]{index=0} Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tofikyussuf-ops&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tofikyussuf-ops&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tofikyussuf-ops&theme=react-dark)
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 Current Focus
 
-• Building modern React & Next.js applications  
-• Improving backend architecture and API performance  
-• Learning advanced system design and scalable infrastructure
+- Building production-level React & Next.js applications  
+- Improving backend performance & architecture  
+- Mastering system design & scalable infrastructure  
 
 ---
 
-## 📫 Let's Build Something Great
+## 📬 Let’s Build Something Powerful
 
-If you're interested in collaborating or building something impactful, feel free to reach out.
+I’m open to collaboration and impactful project opportunities.
 
-I’m always open to working on exciting projects and solving challenging problems.
+If you're building something interesting — feel free to reach out.
