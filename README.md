@@ -27,25 +27,27 @@ When I’m not coding, I’m constantly learning new technologies and improving 
 
 ---
 
-## 🛠 Technology Stack
-
-### Languages
+💡 Tech Stack Highlights:
+Languages:
 JavaScript (ES6+), TypeScript, Python
 
-### Frontend
-React, Next.js, Tailwind CSS, Radix UI, Shadcn UI, Headless UI, React Hook Form
+Frontend:
+React, Next.js, Tailwind CSS, Radix UI, Shadcn, Headless UI, React Hook Forms
 
-### Backend
-Node.js, Express.js, REST APIs, GraphQL, tRPC
+Backend:
+Node.js, Express.js, Prisma, Drizzle ORM, Strapi, RESTful APIs, tRPC, Apollo, GraphQL
 
-### Databases
-PostgreSQL, MySQL, MongoDB, Redis
+Databases:
+PostgreSQL, MSSQL, MySQL, MongoDB, Redis, Upstash
 
-### DevOps & Tools
-Docker, Linux, Git, TurboRepo, Monorepo Architecture
+Tools & Integrations:
+Stripe, Google Maps API, ChartJS, SendGrid, NodeMailer, MUX
 
-### Cloud & Services
-Firebase, Supabase, Stripe, SendGrid, Google Maps API
+CI/CD & DevOps:
+Docker, Monorepo Architecture (building multiple apps in one repository), TurboRepo, Linux, Git
+
+Cloud & Hosting:
+Firebase, Supabase
 
 ---
 
